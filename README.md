@@ -13,7 +13,7 @@ The goal of this project is to evaluate the effectiveness of different training 
 ---
 
 ## 📁 **Files and Notebooks**
-- `EAI6010Module2SyedFaizan.ipynb` - Jupyter Notebook containing code for training and evaluation.
+- `Resnetexperiments.ipynb` - Jupyter Notebook containing code for training and evaluation.
 - `baselineplot.png` - Training and validation loss/accuracy for the baseline model.
 - `confusion_matrix.png` - Confusion matrix of the best-performing model.
 - `dropoutplots.png` - Training and validation metrics for the dropout experiment.
