@@ -1,6 +1,6 @@
 # ResNet18 Experiments
 
-This repository contains experiments conducted using the ResNet18 architecture for image classification. The experiments analyze the model's performance under different conditions, including baseline training, dropout regularization, and L2 weight regularization. Various metrics, including loss curves, accuracy trends, and confusion matrices, are visualized to assess the model’s performance.
+This repository contains experiments conducted using the ResNet18 architecture for image classification as an exercise in regularization techniques and pythonic functional programming. The experiments analyze the model's performance under different conditions, including baseline training, dropout regularization, and L2 weight regularization. Various metrics, including loss curves, accuracy trends, and confusion matrices, are visualized to assess the model’s performance.
 
 ---
 
@@ -13,7 +13,7 @@ The goal of this project is to evaluate the effectiveness of different training 
 ---
 
 ## 📁 **Files and Notebooks**
-- `Resnetexperiments.ipynb` - Jupyter Notebook containing code for training and evaluation.
+- `ExperimentswithResNet18.ipynb` - Jupyter Notebook containing code for training and evaluation.
 - `baselineplot.png` - Training and validation loss/accuracy for the baseline model.
 - `confusion_matrix.png` - Confusion matrix of the best-performing model.
 - `dropoutplots.png` - Training and validation metrics for the dropout experiment.
